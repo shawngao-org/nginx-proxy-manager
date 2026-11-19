@@ -17,7 +17,6 @@ locations=(
 	"/var/lib/logrotate"
 	"/var/lib/nginx"
 	"/var/log/nginx"
-	"/etc/nginx/nginx"
 	"/etc/nginx/nginx.conf"
 	"/etc/nginx/conf.d"
 )

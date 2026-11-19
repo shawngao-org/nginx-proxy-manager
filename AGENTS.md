@@ -74,7 +74,7 @@ asked for are easy to spot as AI slop and will be closed.
 
 ## Docker image and system packages
 
-- The image is built on `nginxproxymanager/nginx-full:certbot-node`, from
+- The image is built on `zetohkr/nginx-full:certbot-node`, from
   https://github.com/NginxProxyManager/docker-nginx-full.
 - Don't add `apt` packages (or other OS packages) in this project's Dockerfile.
   If something can be handled in the upstream base image, change it there first.

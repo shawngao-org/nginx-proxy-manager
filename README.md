@@ -11,8 +11,11 @@
 </p>
 
 > This project is an unofficial fork of NginxProxyManager/nginx-proxy-manager, in which OpenResty has been replaced with Nginx.
+
 > However, it has not been thoroughly tested and is not recommended for use in a production environment.
-> This project requires the corresponding [base image](https://hub.docker.com/repository/docker/zetohkr/nginx-full)
+
+> This project requires the corresponding [base image](https://hub.docker.com/repository/docker/zetohkr/nginx-full).
+
 > Ready-to-use images are now available. `docker pull zetohkr/nginx-proxy-manager:20261119233147`
 
 > Below is the readme file written by the original author.
